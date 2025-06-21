@@ -2,6 +2,8 @@
 
 ## Tema: Virtualización con Docker
 
+Este proyecto muestra cómo ejecutar un script Python dentro de un contenedor Docker.
+
 ## Alumnos
 
 - Ignacio Figueroa - ignaciofigueroadev@gmail.com - DNI 45406120 - Comisión 7
