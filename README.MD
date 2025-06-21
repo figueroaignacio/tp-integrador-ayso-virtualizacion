@@ -2,8 +2,6 @@
 
 ## Tema: Virtualización con Docker
 
----
-
 ## Alumnos
 
 - Ignacio Figueroa - ignaciofigueroadev@gmail.com - DNI 45406120 - Comisión 7
