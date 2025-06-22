@@ -14,6 +14,17 @@ Este proyecto demuestra cómo utilizar Docker para contenerizar y ejecutar un sc
 - [Enlace a video explicativo (Youtube)]()
 - [Enlace al repositorio (GitHub)](https://github.com/figueroaignacio/tp-integrador-ayso-virtualizacion)
 
+## Archivos Incluidos
+
+- `script.py`: Script principal del programa.
+- `Dockerfile`: Define el entorno de ejecución en Docker.
+- `README.md`: Informe general del proyecto.
+- `informe-tp-virtualizacion.pdf`: Informe completo sobre el proyecto.
+
+## Requisitos
+
+- Docker instalado
+
 ## Ejecutar Programa
 
 1. Clonar el Repositorio.
