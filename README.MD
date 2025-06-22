@@ -11,7 +11,7 @@ Este proyecto demuestra cómo utilizar Docker para contenerizar y ejecutar un sc
 
 ## Anexo
 
-- [Enlace a video explicativo (Youtube)]()
+- [Enlace a video explicativo (Youtube)](https://www.youtube.com/watch?v=rJy-kc55hd0)
 - [Enlace al repositorio (GitHub)](https://github.com/figueroaignacio/tp-integrador-ayso-virtualizacion)
 
 ## Archivos Incluidos
@@ -49,4 +49,4 @@ docker build -t tp-integrador-ayso-virtualizacion .
 docker run -it --rm tp-integrador-ayso-virtualizacion
 ```
 
-Esto iniciará el contenedor y ejecutará el script Python dentro del mismo.
+Esto va a iniciar el contenedor y va a ejecutar el script Python dentro del mismo.
